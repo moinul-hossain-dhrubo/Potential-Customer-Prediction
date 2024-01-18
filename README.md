@@ -26,6 +26,9 @@ Create a profile of the leads which are likely to convert
 
 *Related Images :*
 
+![bivariate_1](https://github.com/moinul-hossain-dhrubo/Potential-Customer-Prediction/assets/122023969/8598a66e-18d3-471d-ad68-cc0e2e934e6d)
+![corr_mat](https://github.com/moinul-hossain-dhrubo/Potential-Customer-Prediction/assets/122023969/db04872c-71a4-4f4a-b42e-1cf8b9e18bc5)
+
 ## **Machine Learning Model Training**
 
 * Utilized Decision Tree and Random forest classifier
@@ -35,7 +38,9 @@ Create a profile of the leads which are likely to convert
 
 *Related Images :*
 
-
+![max_depth_vs_error](https://github.com/moinul-hossain-dhrubo/Potential-Customer-Prediction/assets/122023969/1cedff48-cc55-4738-8af7-5328149eafe9)
+![random_forest_tree](https://github.com/moinul-hossain-dhrubo/Potential-Customer-Prediction/assets/122023969/17b63285-a883-424f-9d54-ce23a0697e65)
+![result_rf](https://github.com/moinul-hossain-dhrubo/Potential-Customer-Prediction/assets/122023969/39b44cfc-0113-4e26-b914-df472776714d)
 
 ## **Actionable Insights**
 
